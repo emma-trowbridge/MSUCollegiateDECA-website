@@ -1,0 +1,77 @@
+body, html {
+    height: 100%;
+    background-color: lightblue;
+}
+
+.DECAnavbar {
+    padding-left: 500px;
+}
+
+.Logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    height: 300px;
+    border-radius: 15px;
+    border-width: 30px;
+    border-color: ivory;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.memories-button {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 14px 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: ivory;
+    font-size: large;
+    background-color: steelblue;
+    border-radius: 20px;
+    border-width: 10px;
+}
+
+.about-button {
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 14px 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: ivory;
+    font-size: large;
+    background-color: steelblue;
+    border-radius: 20px;
+    border-width: 10px;
+}
+
+.officers-button {
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 14px 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: ivory;
+    font-size: large;
+    background-color: steelblue;
+    border-radius: 20px;
+    border-width: 10px;
+}
+
+.join-button {
+    display: block;
+    margin: auto;
+    padding: 14px 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: ivory;
+    font-size: large;
+    background-color: steelblue;
+    border-radius: 20px;
+    border-width: 10px;
+}
